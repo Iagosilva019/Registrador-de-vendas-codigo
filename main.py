@@ -48,6 +48,7 @@ class App():
         self.text_vendas = Label(self.frame_titulo,text=f'VENDA DIÁRIA - REGISTRO DE CAIXA',foreground='white',background='#172a38', font=('Raleway',13))
         self.text_vendas.place(x=100,y=10)
         
+        #dssds
         
         #LABEL E ENTRYS
         self.text_valor = Label(self.frames_registro_vnds,text=f'Valor *',foreground='#172a38',background='#CED5D6', font=('Raleway',13))
